@@ -1,0 +1,1 @@
+savedcmd_/home/thenorth/eltex/KernelModules/task1/src/test.ko := ld -r -m elf_x86_64 -z noexecstack --build-id=sha1  -T scripts/module.lds -o /home/thenorth/eltex/KernelModules/task1/src/test.ko /home/thenorth/eltex/KernelModules/task1/src/test.o /home/thenorth/eltex/KernelModules/task1/src/test.mod.o
