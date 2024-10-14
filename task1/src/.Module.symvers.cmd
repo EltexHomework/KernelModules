@@ -1,1 +1,0 @@
-savedcmd_/home/thenorth/eltex/KernelModules/task1/src/Module.symvers :=  scripts/mod/modpost -M -m -a      -o /home/thenorth/eltex/KernelModules/task1/src/Module.symvers -T /home/thenorth/eltex/KernelModules/task1/src/modules.order -i Module.symvers -e 

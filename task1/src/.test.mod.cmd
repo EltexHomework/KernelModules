@@ -1,1 +1,0 @@
-savedcmd_/home/thenorth/eltex/KernelModules/task1/src/test.mod := printf '%s\n'   test.o | awk '!x[$$0]++ { print("/home/thenorth/eltex/KernelModules/task1/src/"$$0) }' > /home/thenorth/eltex/KernelModules/task1/src/test.mod
